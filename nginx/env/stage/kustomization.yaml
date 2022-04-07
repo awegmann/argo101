@@ -6,4 +6,4 @@ resources:
 namePrefix: awegmann-
 images:
 - name: library/nginx
-  newTag: 1.21.622
+  newTag: 1.21.5
